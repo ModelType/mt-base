@@ -1,0 +1,20 @@
+{
+  "name": "mt-base",
+  "version": "1.0.0",
+  "description": "ModelType Base Engine",
+  "main": "index.js",
+  "typings": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModelType/mt-base.git"
+  },
+  "author": "omar@omarzouai.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ModelType/mt-base/issues"
+  },
+  "homepage": "https://github.com/ModelType/mt-base#readme"
+}
